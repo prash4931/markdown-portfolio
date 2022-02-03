@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Happy Face!](https://images-na.ssl-images-amazon.com/images/I/71ZtQnzOU4L._SL1500_.jpg)
